@@ -1,0 +1,17 @@
+path: /content/my_custom_dataset
+
+# train: ../train/images
+# val: ../valid/images
+# test: ../test/images
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['tag']
+
+# roboflow:
+#   workspace: augmented-startups
+# test: ../test/images
+# train: ../train/images
+# val: ../valid/images

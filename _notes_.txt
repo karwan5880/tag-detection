@@ -1,0 +1,7 @@
+install git
+
+!pip install git+https://github.com/sunsmarterjie/yolov12
+
+pip install huggingface_hub
+
+https://colab.research.google.com/drive/1EjhXBlQFMbmtvTdubmRyN2qNpNO42alW?usp=sharing
