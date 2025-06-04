@@ -1,0 +1,16 @@
+/extracted_dataset/images
+/extracted_dataset/labels
+/images
+/images_jpg
+/labels
+/my_custom_dataset/images/test
+/my_custom_dataset/images/train
+/my_custom_dataset/images/val
+/my_custom_dataset/labels/test
+/my_custom_dataset/labels/train
+/my_custom_dataset/labels/val
+/runs/predict/my_video_predictions
+sample.mp4
+my_custom_dataset.zip
+train4_results.zip
+/train4_results/content/runs/detect/train4
